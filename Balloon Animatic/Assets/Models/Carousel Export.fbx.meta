@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: ce5ea12cf511dab4fab30e96bd691938
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bulb_Arm_1
+    100002: Bulb_Arm_2
+    100004: Bulb_Arm_3
+    100006: Bulb_Arm_4
+    100008: Bulb_Arm_5
+    100010: //RootNode
+    100012: Crown_Ring
+    100014: Crown_Topper_L
+    100016: Crown_Topper_L1
+    100018: Crown_Topper_L2
+    100020: Flag_Pole
+    100022: Horse_Pole1
+    100024: Horse_Pole10
+    100026: Horse_Pole12
+    100028: Horse_Pole13
+    100030: Horse_Pole15
+    100032: Horse_Pole16
+    100034: Horse_Pole17
+    100036: Horse_Pole18
+    100038: Horse_Pole2
+    100040: Horse_Pole3
+    100042: Horse_Pole4
+    100044: Horse_Pole5
+    100046: Horse_Pole6
+    100048: Horse_Pole7
+    100050: Horse_Pole8
+    100052: Horse_Pole9
+    100054: Light_Bulb
+    100056: Light_Bulb 1
+    100058: Light_Bulb 2
+    100060: Light_Bulb 3
+    100062: Light_Bulb 4
+    100064: Light_Bulb1
+    100066: Light_Bulb1 1
+    100068: Light_Bulb1 2
+    100070: Light_Bulb1 3
+    100072: Light_Bulb1 4
+    100074: Light_Bulb2
+    100076: Light_Bulb2 1
+    100078: Light_Bulb2 2
+    100080: Light_Bulb2 3
+    100082: Light_Bulb2 4
+    100084: Light_Bulb3
+    100086: Light_Bulb3 1
+    100088: Light_Bulb3 2
+    100090: Light_Bulb3 3
+    100092: Light_Bulb3 4
+    100094: Light_Bulbs
+    100096: Mirror_Cyl
+    100098: Mirror_Cyl1
+    100100: Mirror_Cyl2
+    100102: Mirror_Cyl3
+    100104: Mirror_Cyl4
+    100106: Poles
+    100108: Tent
+    400000: Bulb_Arm_1
+    400002: Bulb_Arm_2
+    400004: Bulb_Arm_3
+    400006: Bulb_Arm_4
+    400008: Bulb_Arm_5
+    400010: //RootNode
+    400012: Crown_Ring
+    400014: Crown_Topper_L
+    400016: Crown_Topper_L1
+    400018: Crown_Topper_L2
+    400020: Flag_Pole
+    400022: Horse_Pole1
+    400024: Horse_Pole10
+    400026: Horse_Pole12
+    400028: Horse_Pole13
+    400030: Horse_Pole15
+    400032: Horse_Pole16
+    400034: Horse_Pole17
+    400036: Horse_Pole18
+    400038: Horse_Pole2
+    400040: Horse_Pole3
+    400042: Horse_Pole4
+    400044: Horse_Pole5
+    400046: Horse_Pole6
+    400048: Horse_Pole7
+    400050: Horse_Pole8
+    400052: Horse_Pole9
+    400054: Light_Bulb
+    400056: Light_Bulb 1
+    400058: Light_Bulb 2
+    400060: Light_Bulb 3
+    400062: Light_Bulb 4
+    400064: Light_Bulb1
+    400066: Light_Bulb1 1
+    400068: Light_Bulb1 2
+    400070: Light_Bulb1 3
+    400072: Light_Bulb1 4
+    400074: Light_Bulb2
+    400076: Light_Bulb2 1
+    400078: Light_Bulb2 2
+    400080: Light_Bulb2 3
+    400082: Light_Bulb2 4
+    400084: Light_Bulb3
+    400086: Light_Bulb3 1
+    400088: Light_Bulb3 2
+    400090: Light_Bulb3 3
+    400092: Light_Bulb3 4
+    400094: Light_Bulbs
+    400096: Mirror_Cyl
+    400098: Mirror_Cyl1
+    400100: Mirror_Cyl2
+    400102: Mirror_Cyl3
+    400104: Mirror_Cyl4
+    400106: Poles
+    400108: Tent
+    2100000: Tent_And_Pole_Shader
+    2100002: Crown_Shader1
+    2100004: Mirrors_Shader1
+    2300000: Crown_Ring
+    2300002: Crown_Topper_L
+    2300004: Crown_Topper_L1
+    2300006: Crown_Topper_L2
+    2300008: Flag_Pole
+    2300010: Horse_Pole1
+    2300012: Horse_Pole10
+    2300014: Horse_Pole12
+    2300016: Horse_Pole13
+    2300018: Horse_Pole15
+    2300020: Horse_Pole16
+    2300022: Horse_Pole17
+    2300024: Horse_Pole18
+    2300026: Horse_Pole2
+    2300028: Horse_Pole3
+    2300030: Horse_Pole4
+    2300032: Horse_Pole5
+    2300034: Horse_Pole6
+    2300036: Horse_Pole7
+    2300038: Horse_Pole8
+    2300040: Horse_Pole9
+    2300042: Light_Bulb
+    2300044: Light_Bulb 1
+    2300046: Light_Bulb 2
+    2300048: Light_Bulb 3
+    2300050: Light_Bulb 4
+    2300052: Light_Bulb1
+    2300054: Light_Bulb1 1
+    2300056: Light_Bulb1 2
+    2300058: Light_Bulb1 3
+    2300060: Light_Bulb1 4
+    2300062: Light_Bulb2
+    2300064: Light_Bulb2 1
+    2300066: Light_Bulb2 2
+    2300068: Light_Bulb2 3
+    2300070: Light_Bulb2 4
+    2300072: Light_Bulb3
+    2300074: Light_Bulb3 1
+    2300076: Light_Bulb3 2
+    2300078: Light_Bulb3 3
+    2300080: Light_Bulb3 4
+    2300082: Mirror_Cyl
+    2300084: Mirror_Cyl1
+    2300086: Mirror_Cyl2
+    2300088: Mirror_Cyl3
+    2300090: Mirror_Cyl4
+    2300092: Tent
+    3300000: Crown_Ring
+    3300002: Crown_Topper_L
+    3300004: Crown_Topper_L1
+    3300006: Crown_Topper_L2
+    3300008: Flag_Pole
+    3300010: Horse_Pole1
+    3300012: Horse_Pole10
+    3300014: Horse_Pole12
+    3300016: Horse_Pole13
+    3300018: Horse_Pole15
+    3300020: Horse_Pole16
+    3300022: Horse_Pole17
+    3300024: Horse_Pole18
+    3300026: Horse_Pole2
+    3300028: Horse_Pole3
+    3300030: Horse_Pole4
+    3300032: Horse_Pole5
+    3300034: Horse_Pole6
+    3300036: Horse_Pole7
+    3300038: Horse_Pole8
+    3300040: Horse_Pole9
+    3300042: Light_Bulb
+    3300044: Light_Bulb 1
+    3300046: Light_Bulb 2
+    3300048: Light_Bulb 3
+    3300050: Light_Bulb 4
+    3300052: Light_Bulb1
+    3300054: Light_Bulb1 1
+    3300056: Light_Bulb1 2
+    3300058: Light_Bulb1 3
+    3300060: Light_Bulb1 4
+    3300062: Light_Bulb2
+    3300064: Light_Bulb2 1
+    3300066: Light_Bulb2 2
+    3300068: Light_Bulb2 3
+    3300070: Light_Bulb2 4
+    3300072: Light_Bulb3
+    3300074: Light_Bulb3 1
+    3300076: Light_Bulb3 2
+    3300078: Light_Bulb3 3
+    3300080: Light_Bulb3 4
+    3300082: Mirror_Cyl
+    3300084: Mirror_Cyl1
+    3300086: Mirror_Cyl2
+    3300088: Mirror_Cyl3
+    3300090: Mirror_Cyl4
+    3300092: Tent
+    4300000: Tent
+    4300002: Flag_Pole
+    4300004: Crown_Topper_L
+    4300006: Crown_Ring
+    4300008: Mirror_Cyl
+    4300010: Mirror_Cyl1
+    4300012: Mirror_Cyl2
+    4300014: Mirror_Cyl3
+    4300016: Mirror_Cyl4
+    4300018: Horse_Pole1
+    4300020: Horse_Pole2
+    4300022: Horse_Pole3
+    4300024: Horse_Pole4
+    4300026: Horse_Pole5
+    4300028: Horse_Pole6
+    4300030: Horse_Pole7
+    4300032: Horse_Pole8
+    4300034: Horse_Pole9
+    4300036: Horse_Pole10
+    4300038: Horse_Pole12
+    4300040: Horse_Pole13
+    4300042: Horse_Pole15
+    4300044: Horse_Pole16
+    4300046: Horse_Pole17
+    4300048: Horse_Pole18
+    4300050: Light_Bulb
+    4300052: Light_Bulb1
+    4300054: Light_Bulb2
+    4300056: Light_Bulb3
+    4300058: Light_Bulb
+    4300060: Light_Bulb1
+    4300062: Light_Bulb2
+    4300064: Light_Bulb3
+    4300066: Light_Bulb
+    4300068: Light_Bulb1
+    4300070: Light_Bulb2
+    4300072: Light_Bulb3
+    4300074: Light_Bulb
+    4300076: Light_Bulb1
+    4300078: Light_Bulb2
+    4300080: Light_Bulb3
+    4300082: Light_Bulb
+    4300084: Light_Bulb1
+    4300086: Light_Bulb2
+    4300088: Light_Bulb3
+    4300090: Crown_Topper_L1
+    4300092: Crown_Topper_L2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
